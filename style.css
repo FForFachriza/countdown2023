@@ -15,7 +15,6 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  transform: scale(1.2);
 }
 .wktu {
   padding-top: 20px;
